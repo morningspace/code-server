@@ -1,0 +1,4 @@
+- Clone this as `vs/src/server` in the VS Code source.
+- Run `yarn watch-client`in the VS Code root.
+- Run `node out/vs/server/main.js`.
+- Visit `http://localhost:8443`.
